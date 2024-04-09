@@ -81,7 +81,7 @@ def adicionaLimpeza():
 #FIM DA FUNÇÃO ADICIONAL DA LIMPEZA()
 
 #INICIO DO MAIN
-print('..........Bem-vindo ao programa de Eliel Santos de Jesus............')
+print('..........Bem-vindo ao programa de Metragem............')
 
 #EXECUÇÕES DAS FUNÇÕES PARA AMARZENAR SAÍDAS
 metragem = metragemLimpeza()
