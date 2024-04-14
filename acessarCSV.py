@@ -15,7 +15,7 @@ ID=0
 
 
 # Especifica o caminho completo para o arquivo CSV
-caminho_arquivo_csv = '/home/ticientifica/Downloads/planilha.csv'
+caminho_arquivo_csv = '/home/nista/Downloads/planilha.csv'
 
 # Tenta ler o arquivo CSV usando o pandas
 try:
